@@ -1,0 +1,5 @@
+0.0.1
+    Initialized
+    install.inc.php //по установке модуля
+    uninstall.inc.php //по удалению модуля
+    patches.inc.php //для единоразовых корректировок системы

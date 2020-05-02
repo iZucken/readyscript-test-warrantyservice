@@ -1,0 +1,14 @@
+{
+    "name": "izucken/rs-warrantyservice",
+    "type": "project",
+    "authors": [
+        {
+            "name": "iZucken",
+            "email": "izucken@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "fzaninotto/faker": "^1.9"
+    }
+}

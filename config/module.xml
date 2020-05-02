@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Гарантийное обслуживание</name>
+        <description multilanguage="true">Добавляем точьки.</description>
+        <author>Хыть</author>
+        <version>0.0.5</version>
+        <core_version>4.1.85</core_version>
+    </defaultValues>
+</config>
